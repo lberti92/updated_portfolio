@@ -1,0 +1,80 @@
+body {
+  background: url("../images/pexels.jpeg");
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.col-lg-3 {
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.Logo {
+  font-size: 45px;
+}
+
+.text-wrapper {
+  padding-bottom: 10px;
+}
+.navbar {
+  justify-content: center;
+}
+
+.navbar-brand {
+  margin-left: 20%;
+}
+
+.navbar-nav {
+ margin-right: 30%;
+}
+.main {
+  margin-top: 200px;
+}
+
+.row-main {
+  margin-top:30px;
+  padding-top: 20px;
+}
+
+.row-main, .row-about {
+  margin-bottom: 20px;
+}
+
+.row-about {
+  margin-top: 125px;
+}
+
+.card{
+  margin-bottom: 40px;
+}
+
+.card-img-overlay {
+  background-color: black;
+  position: absolute;
+  top: 205px;
+}
+
+.icon-link {
+  font-size: 1.75em;
+  margin-right: 10px;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 80px;
+}
+
+#footer {
+  position: absolute;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(94, 91, 91);
+  color: white;
+  text-align: center;
+}
